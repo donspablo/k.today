@@ -1,5 +1,5 @@
 ---
-title: 'k.today: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'k.today: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 k.today is under construction."
 ---
 
